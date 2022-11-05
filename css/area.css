@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+   background-image: url(https://i.pinimg.com/736x/39/cd/7b/39cd7b5bff8215da64369bddc58fa8dc.jpg);
+    color: rgb(255, 255, 255);
+    padding: 4%;
+
+}
+
+header{
+    background-image:url(https://internetpasoapaso.com/wp-content/uploads/Fondo.pantalla.animado.gif);
+    text-align: center;
+    height: 130px;
+  
+}
+
+img{
+    width: 20%;
+    height: 20%;
+
+}
+
+.one{
+    font-size: 25px;
+    color:aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+}
+h2{
+    font-size: 60px;
+}
+
+label{
+    color: rgb(0, 255, 51);
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    background-color: rgb(124, 33, 33);
+    color: aliceblue;
+    text-align: center;
+    /* height: 50px; */
+}
+
+a{
+    color: azure;
+    font-size: 20px;
+}
+
+
+h4{
+    font-size: 25px;
+}
+
